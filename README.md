@@ -1,30 +1,19 @@
-# This is a large heading
+# Elizabeth Mejia
 
-## This is a smaller heading
+I live in the city of San Juan de Pasto, in Colombia.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading
 
-- This is
-- an unordered
-- list
+three of my favorite hobbies are:
 
-1. This is
-2. an ordered
-3. list
+- *Swim
+- *Dance
+- *Sleep
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+My favorite food is the  lasagna
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+Don't even try
