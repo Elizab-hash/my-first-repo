@@ -6,7 +6,7 @@ I live in the city of San Juan de Pasto, in Colombia.
 
 three of my favorite hobbies are:
 
-- *Swimg
+- *Swim
 - *Dance
 - *Sleep
 
